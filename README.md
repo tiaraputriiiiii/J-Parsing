@@ -8,6 +8,7 @@ MATA KULIAH   : PEMROGRAMAN MOBILE 2
 ```
 
 WHAT IS JSON?
+
 (Javascript Object Notation) merupakan format pertukaran data yang ringan dan mudah dibaca (dibanding XML). Format ini dapat digunakan di hampir semua bahasa pemrograman.
 
 untuk memudahan proses pembuatan program parsing JSON,dapat dilakukan penambahan library terlebih dahulu. Dapat dilakukan dari menu -> Build Gradle (Module App) kemudian dapat diisi sebagai berikut:
